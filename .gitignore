@@ -1,0 +1,5 @@
+instances_output.txt
+hw01_instances.zip
+hw01_instances/
+.venv/
+.DS_Store
